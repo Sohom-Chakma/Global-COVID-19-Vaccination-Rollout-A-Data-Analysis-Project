@@ -40,8 +40,11 @@ Although, the count was affected by the size of the population, it is interestin
 Interestingly, some countries had vaccination rates that exceeded local population (due to tourists or differences in data collection)
 ![image](https://github.com/Sohom-Chakma/Global-COVID-19-Vaccination-Rollout-A-Data-Analysis-Project/assets/155359412/460443ea-6f96-41eb-839a-9a4550190bb8)
 
-### Vaccinatino Time-Series Analysis
-Vaccine initiatives began in December of 2020 and it started to taper off between October and December of 2021 as majority of nations were successful in vaccinating the vast majority of the population.
+### Vaccination Time-Series Analysis
+- Vaccine initiatives began in December of 2020.
+- Accelerated growth during February of 2021.
+- October and December of 2021 saw the vaccination rate stabilize as majority of nations were successful in vaccinating the vast majority of the population.
+- Predictions (shaded area) show continued vaccination efforts into 2022 with varying levels of certainty. India is predicted to have the highest rate of change followed by China while other nations show stabilization. 
 ![image](https://github.com/Sohom-Chakma/Global-COVID-19-Vaccination-Rollout-A-Data-Analysis-Project/assets/155359412/951e0490-0229-4f0c-ad27-5b34d062d277)
 
 ## Acknowledgements
