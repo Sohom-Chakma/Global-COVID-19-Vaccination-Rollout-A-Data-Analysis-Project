@@ -25,7 +25,7 @@ COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in
 [COVID-19 Vaccination Analysis Dashboard](https://public.tableau.com/views/COVID-19VaccinationAnalysis_17205778688560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Global Numbers
-- individuals vaccinated atleast once (not accounting for multiple doses + boosters): 5,685,252,607
+- individuals vaccinated: 5,685,252,607 (not accounting for multiple doses + boosters)
 - Total Deaths: 7,055,443
 - Percentage of global population vaccinated:  ~70%
 
