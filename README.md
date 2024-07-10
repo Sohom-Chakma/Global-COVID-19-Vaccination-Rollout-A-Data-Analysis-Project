@@ -38,27 +38,15 @@ Although, the count was affected by the size of the population, it is interestin
 - Oceania: 28,960,501. Lowest vaccination count but largely due to smaller population. Vaccine initiatives were effective as it had ~80% of the population vaccinated.
 
 ## Vaccination Rate per Country
-location	People_Vaccinated	Population	Vaccination_Rate
-Gibraltar	42175	32677	129.07%
-Tokelau	2203	1893	116.38%
-Qatar	2852178	2695131	105.83%
-United Arab Emirates	9991089	9441138	105.83%
-Nauru	13106	12691	103.27%
-Brunei	451149	449002	100.48%
-Pitcairn	47	47	100.00%
-Macao	679703	695180	97.77%
-Cuba	10805570	11212198	96.37%
-Portugal	9821414	10270857	95.62%
-Hong Kong	6919889	7488863	92.40%
-Chile	18088517	19603736	92.27%
-Nicaragua	6404524	6948395	92.17%
-Vietnam	90497674	98186856	92.17%
-China	1310292000	1425887360	91.89%
-Taiwan	21899240	23893396	91.65%
-Singapore	5160551	5637022	91.55%
-Cambodia	15316670	16767851	91.35%
-Nepal	27883196	30547586	91.28%
+Interestingly, some countries had vaccination rates that exceeded local population (due to tourists or differences in data collection)
 ![image](https://github.com/Sohom-Chakma/Global-COVID-19-Vaccination-Rollout-A-Data-Analysis-Project/assets/155359412/460443ea-6f96-41eb-839a-9a4550190bb8)
+
+## Vaccinatino Time-Series Analysis
+Vaccine initiatives began in December of 2020 and it started to taper off between October and December of 2021 as majority of nations were successful in vaccinating the vast majority of the population.
+![image](https://github.com/Sohom-Chakma/Global-COVID-19-Vaccination-Rollout-A-Data-Analysis-Project/assets/155359412/951e0490-0229-4f0c-ad27-5b34d062d277)
+
+# Acknowledgements
+All data was sources from [Our World in Data](https://ourworldindata.org/)
 
 
 
