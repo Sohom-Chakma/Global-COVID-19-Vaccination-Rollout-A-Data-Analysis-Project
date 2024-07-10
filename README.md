@@ -46,7 +46,7 @@ Vaccine initiatives began in December of 2020 and it started to taper off betwee
 ![image](https://github.com/Sohom-Chakma/Global-COVID-19-Vaccination-Rollout-A-Data-Analysis-Project/assets/155359412/951e0490-0229-4f0c-ad27-5b34d062d277)
 
 # Acknowledgements
-All data was sources from [Our World in Data](https://ourworldindata.org/)
+All data was sourced from [Our World in Data](https://ourworldindata.org/)
 
 
 
