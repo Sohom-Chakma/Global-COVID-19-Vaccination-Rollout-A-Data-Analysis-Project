@@ -14,6 +14,7 @@ This dataset is a collection of the COVID-19 data maintained by Our World in Dat
 - Date
 - Deaths
 - People vaccinated
+
 [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths)
 
 ## Methodology
