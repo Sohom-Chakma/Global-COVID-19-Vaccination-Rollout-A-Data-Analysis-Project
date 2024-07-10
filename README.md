@@ -7,7 +7,7 @@ The primary objective of this project is to analyze and compare the success of C
 - Tableau Public
 
 ## Data
-COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in Data. The metrics we will be focusing on are:
+This dataset is a collection of the COVID-19 data maintained by Our World in Data. The metrics we will be focusing on are:
 - Continent
 - Locations
 - Population
